@@ -18,7 +18,7 @@ function iLoveTheBeatles(n){
   let array=[];
  do{
     array.push(love);
-    n +=
+    n += 1;
   }
   while(n<15);
 }
